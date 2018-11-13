@@ -1,0 +1,14 @@
+body{font-size:.24rem;}
+/* 头部nav的内容 */
+.nav{position: relative;height: .90rem;background: #f8f8f8;line-height: .88rem;border-bottom: .04rem solid #ff7f00;}
+.nav-left .logo{position: absolute;left: .06rem;top: .16rem;width: 2.36rem;height: .64rem;background-size: 12.2rem;background: url(../images/logo.png) no-repeat;background-size: 100% 100%;}
+/* 这上面是面包的内容 */
+.bread{width: 100%;height: .6rem;line-height: .6rem;background-color: #fff;border-bottom: .02rem solid #ccc;}
+.bread_word{padding:0 .16rem}
+.bread_arrow{width: .22rem;height: .6rem;background: url(../images/title_bg.png) no-repeat;background-size: .22rem .6rem;display: block;float: left;}
+.floatleft{float:left}
+/* 手机注册 */
+.zem1{margin-top:.3rem!important;}
+.tell{height: .76rem;margin: 0 .3rem;border-top: .02rem solid #dcdcdc;border-bottom: .02rem  solid #dcdcdc;border-left: .02rem  solid #dcdcdc;border-right: .02rem  solid #dcdcdc;background: #fff;line-height: .76rem;}
+.tell_ipt{padding-right:.6rem;padding-left:.3rem;}
+.tell_ipt_con{width: 100%;border: 0;font-size: .24rem;}
